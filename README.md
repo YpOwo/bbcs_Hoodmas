@@ -9,4 +9,5 @@ profile pictures when sign up a new account on the app folder --> pfp_images
 
 
 to run the application:
+
 integrated terminal --> nodemon app.js
